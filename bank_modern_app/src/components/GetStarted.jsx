@@ -17,7 +17,7 @@ const GetStarted = () => (
         <img
           src={arrowUp}
           alt="arrow"
-          classname="w-[23px] h-[23px] object-contain"
+          className="w-[23px] h-[23px] object-contain"
         />
       </div>
       <p className="font-poppins font-medium text-[18px] leading-[23px]">
