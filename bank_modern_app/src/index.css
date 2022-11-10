@@ -138,3 +138,12 @@
   background: rgba(255, 255, 255, 0.6);
   filter: blur(750px);
 }
+
+.clientImg {
+  transition: margin 0.2s ease-in-out;
+}
+
+.clientImg:hover {
+  cursor: pointer;
+  margin-top: -20px;
+}
